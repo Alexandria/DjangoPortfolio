@@ -1,4 +1,4 @@
 from django.contrib import admin
-from .models import Project
+from .models import Projects
 # Register your models here.
-admin.site.register(Project)
+admin.site.register(Projects)
