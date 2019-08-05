@@ -1,2 +1,5 @@
 myvenv
 .vscode
+mysite/__pycache__
+projects/__pycache__
+projects/migrations/__pycache__
